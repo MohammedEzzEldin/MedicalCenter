@@ -5744,11 +5744,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core MVC Projects\\MedicalCenter\\MedicalCenter.PR\\MedicalCenter.PR.csproj",
+      "projectUniqueName": "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core Projects\\MedicalCenter\\MedicalCenter\\MedicalCenter.PR\\MedicalCenter.PR.csproj",
       "projectName": "MedicalCenter.PR",
-      "projectPath": "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core MVC Projects\\MedicalCenter\\MedicalCenter.PR\\MedicalCenter.PR.csproj",
+      "projectPath": "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core Projects\\MedicalCenter\\MedicalCenter\\MedicalCenter.PR\\MedicalCenter.PR.csproj",
       "packagesPath": "C:\\Users\\M Ezz\\.nuget\\packages\\",
-      "outputPath": "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core MVC Projects\\MedicalCenter\\MedicalCenter.PR\\obj\\",
+      "outputPath": "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core Projects\\MedicalCenter\\MedicalCenter\\MedicalCenter.PR\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\M Ezz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5765,8 +5765,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core MVC Projects\\MedicalCenter\\MedicalCenter.BL\\MedicalCenter.BL.csproj": {
-              "projectPath": "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core MVC Projects\\MedicalCenter\\MedicalCenter.BL\\MedicalCenter.BL.csproj"
+            "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core Projects\\MedicalCenter\\MedicalCenter\\MedicalCenter.BL\\MedicalCenter.BL.csproj": {
+              "projectPath": "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core Projects\\MedicalCenter\\MedicalCenter\\MedicalCenter.BL\\MedicalCenter.BL.csproj"
             }
           }
         }

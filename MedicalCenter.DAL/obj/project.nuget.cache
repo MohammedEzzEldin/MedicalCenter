@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SWGEBPmqGYAN+41h3e+TMRqEqPN5jKtSi9PwPpjgF74HZx7GauW9X+dDPbA1LTZusBuAXhv+WGJTXVRSlgZfYg==",
+  "dgSpecHash": "gOtuu2Y1EA7m/0361WSf9967BekdiyYh46k2ZZ13GpsO4NwB14EN5SRxVLDT2s7itckuQ+MXZHhTgdmkuSgXRA==",
   "success": true,
-  "projectFilePath": "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core MVC Projects\\MedicalCenter\\MedicalCenter.DAL\\MedicalCenter.DAL.csproj",
+  "projectFilePath": "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core Projects\\MedicalCenter\\MedicalCenter\\MedicalCenter.DAL\\MedicalCenter.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\M Ezz\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\M Ezz\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

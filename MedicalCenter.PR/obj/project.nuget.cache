@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oCaNxhQXslhK29bAkeVbR21SPeK7nRuqOC0vWiajl4pfh/O/+c0WxkJf0ln9BRNqW8iB05yNBqcOxgQpZfy9Kg==",
+  "dgSpecHash": "6BxNxTWtvUrwiugsk2/rf2v8l6BsIkG+S1Ei9diJmBe+GUgoNnQ/s6lfH54EwRZjwDmHVDI5rbgv10KDR8UlSg==",
   "success": true,
-  "projectFilePath": "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core MVC Projects\\MedicalCenter\\MedicalCenter.PR\\MedicalCenter.PR.csproj",
+  "projectFilePath": "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core Projects\\MedicalCenter\\MedicalCenter\\MedicalCenter.PR\\MedicalCenter.PR.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\M Ezz\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\M Ezz\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

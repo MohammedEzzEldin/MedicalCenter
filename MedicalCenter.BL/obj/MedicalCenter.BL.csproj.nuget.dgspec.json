@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core MVC Projects\\MedicalCenter\\MedicalCenter.BL\\MedicalCenter.BL.csproj": {}
+    "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core Projects\\MedicalCenter\\MedicalCenter\\MedicalCenter.BL\\MedicalCenter.BL.csproj": {}
   },
   "projects": {
-    "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core MVC Projects\\MedicalCenter\\MedicalCenter.BL\\MedicalCenter.BL.csproj": {
+    "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core Projects\\MedicalCenter\\MedicalCenter\\MedicalCenter.BL\\MedicalCenter.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core MVC Projects\\MedicalCenter\\MedicalCenter.BL\\MedicalCenter.BL.csproj",
+        "projectUniqueName": "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core Projects\\MedicalCenter\\MedicalCenter\\MedicalCenter.BL\\MedicalCenter.BL.csproj",
         "projectName": "MedicalCenter.BL",
-        "projectPath": "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core MVC Projects\\MedicalCenter\\MedicalCenter.BL\\MedicalCenter.BL.csproj",
+        "projectPath": "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core Projects\\MedicalCenter\\MedicalCenter\\MedicalCenter.BL\\MedicalCenter.BL.csproj",
         "packagesPath": "C:\\Users\\M Ezz\\.nuget\\packages\\",
-        "outputPath": "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core MVC Projects\\MedicalCenter\\MedicalCenter.BL\\obj\\",
+        "outputPath": "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core Projects\\MedicalCenter\\MedicalCenter\\MedicalCenter.BL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\M Ezz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core MVC Projects\\MedicalCenter\\MedicalCenter.DAL\\MedicalCenter.DAL.csproj": {
-                "projectPath": "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core MVC Projects\\MedicalCenter\\MedicalCenter.DAL\\MedicalCenter.DAL.csproj"
+              "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core Projects\\MedicalCenter\\MedicalCenter\\MedicalCenter.DAL\\MedicalCenter.DAL.csproj": {
+                "projectPath": "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core Projects\\MedicalCenter\\MedicalCenter\\MedicalCenter.DAL\\MedicalCenter.DAL.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core MVC Projects\\MedicalCenter\\MedicalCenter.DAL\\MedicalCenter.DAL.csproj": {
+    "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core Projects\\MedicalCenter\\MedicalCenter\\MedicalCenter.DAL\\MedicalCenter.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core MVC Projects\\MedicalCenter\\MedicalCenter.DAL\\MedicalCenter.DAL.csproj",
+        "projectUniqueName": "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core Projects\\MedicalCenter\\MedicalCenter\\MedicalCenter.DAL\\MedicalCenter.DAL.csproj",
         "projectName": "MedicalCenter.DAL",
-        "projectPath": "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core MVC Projects\\MedicalCenter\\MedicalCenter.DAL\\MedicalCenter.DAL.csproj",
+        "projectPath": "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core Projects\\MedicalCenter\\MedicalCenter\\MedicalCenter.DAL\\MedicalCenter.DAL.csproj",
         "packagesPath": "C:\\Users\\M Ezz\\.nuget\\packages\\",
-        "outputPath": "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core MVC Projects\\MedicalCenter\\MedicalCenter.DAL\\obj\\",
+        "outputPath": "F:\\Development\\My Projects\\Dot Net Projects\\Dot Net Core Projects\\MedicalCenter\\MedicalCenter\\MedicalCenter.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\M Ezz\\AppData\\Roaming\\NuGet\\NuGet.Config",
