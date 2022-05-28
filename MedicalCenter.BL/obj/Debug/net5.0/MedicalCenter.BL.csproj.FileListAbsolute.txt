@@ -1,0 +1,15 @@
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.BL\bin\Debug\net5.0\MedicalCenter.BL.deps.json
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.BL\bin\Debug\net5.0\MedicalCenter.BL.dll
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.BL\bin\Debug\net5.0\ref\MedicalCenter.BL.dll
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.BL\bin\Debug\net5.0\MedicalCenter.BL.pdb
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.BL\bin\Debug\net5.0\MedicalCenter.DAL.dll
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.BL\bin\Debug\net5.0\MedicalCenter.DAL.pdb
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.BL\obj\Debug\net5.0\MedicalCenter.BL.csproj.AssemblyReference.cache
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.BL\obj\Debug\net5.0\MedicalCenter.BL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.BL\obj\Debug\net5.0\MedicalCenter.BL.AssemblyInfoInputs.cache
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.BL\obj\Debug\net5.0\MedicalCenter.BL.AssemblyInfo.cs
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.BL\obj\Debug\net5.0\MedicalCenter.BL.csproj.CoreCompileInputs.cache
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.BL\obj\Debug\net5.0\MedicalCenter.BL.csproj.CopyComplete
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.BL\obj\Debug\net5.0\MedicalCenter.BL.dll
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.BL\obj\Debug\net5.0\ref\MedicalCenter.BL.dll
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.BL\obj\Debug\net5.0\MedicalCenter.BL.pdb

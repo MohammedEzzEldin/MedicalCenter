@@ -1,0 +1,15 @@
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.DAL\bin\Debug\net5.0\MedicalCenter.DAL.deps.json
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.DAL\bin\Debug\net5.0\MedicalCenter.DAL.dll
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.DAL\bin\Debug\net5.0\ref\MedicalCenter.DAL.dll
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.DAL\bin\Debug\net5.0\MedicalCenter.DAL.pdb
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.DAL\obj\Debug\net5.0\MedicalCenter.DAL.csproj.AssemblyReference.cache
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.DAL\obj\Debug\net5.0\MedicalCenter.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.DAL\obj\Debug\net5.0\MedicalCenter.DAL.AssemblyInfoInputs.cache
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.DAL\obj\Debug\net5.0\MedicalCenter.DAL.AssemblyInfo.cs
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.DAL\obj\Debug\net5.0\MedicalCenter.DAL.csproj.CoreCompileInputs.cache
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.DAL\obj\Debug\net5.0\MedicalCenter.DAL.dll
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.DAL\obj\Debug\net5.0\ref\MedicalCenter.DAL.dll
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.DAL\obj\Debug\net5.0\MedicalCenter.DAL.pdb
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.DAL\bin\Debug\net5.0\MedicalCenter.DAL.runtimeconfig.json
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.DAL\bin\Debug\net5.0\MedicalCenter.DAL.runtimeconfig.dev.json
+F:\Development\My Projects\Dot Net Projects\Dot Net Core MVC Projects\MedicalCenter\MedicalCenter.DAL\obj\Debug\net5.0\MedicalCenter.DAL.genruntimeconfig.cache
